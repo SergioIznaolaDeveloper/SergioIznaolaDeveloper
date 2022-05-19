@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [bootcamp class notes web](https://github.com/SergioIznaolaDeveloper)
 
-- 🌱 I’m currently learning **React, Express.js & MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://github.com/SergioIznaolaDeveloper?tab=repositories](https://github.com/SergioIznaolaDeveloper?tab=repositories)
 
 - 📫 How to reach me **sergioiznaola@gmail.com**
